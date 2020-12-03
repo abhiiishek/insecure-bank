@@ -1,4 +1,4 @@
-# Insecure Bank test cI/CD pipeline test
+# Insecure Bank test cI/CD pipeline test cicd
 ![Insecure-Bank](https://hdivsecurity.com/img/bank.png)
 ## Running the application locally
 
