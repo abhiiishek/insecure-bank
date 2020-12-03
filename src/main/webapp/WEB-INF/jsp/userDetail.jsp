@@ -14,7 +14,7 @@
 							class="icon ion-navicon"></i></a>
 						<div class="logo pull-left">
 							<i class="fa fa-university fa-logo"></i> <span class="logo-text">Insecure
-								Bank </span>
+								BANK</span>
 						</div>
 					</div>
 					<div class="col-md-10 col-sm-8 col-xs-5">
@@ -56,6 +56,7 @@
 			<div class="row">
 				<div class="col-lg-2 col-left">
 					<!-- LEFT CONTENT -->
+					
 					<div class="left-content">
 						<nav id="main-nav" class="main-nav">
 
